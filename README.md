@@ -1,5 +1,5 @@
 # DuckDuckGo-Fakeshops-Blocklist
-Diese Blockliste dient dazu, um sich vor den aufgetauchten Fakeshops / Affiliate-Shop auf der Deutschen Version DuckDuckGo zu schützen.
+Diese Blockliste dient dazu, um sich vor den aufgetauchten Fake- / Affiliate-Shop auf der Deutschen Version DuckDuckGo zu schützen.
 
 Mir ist aufgefallen, dass auf der Deutschen Version von DuckDuckGo vermehrt Fakeshop / Affiliate-Shops aufgetaucht sind. Ich habe DuckDuckGoschon auf Twitter kontaktiert, allerdings hat das Unternehmen leider nicht geantwortet.
 

@@ -9,9 +9,9 @@ Diese Blockliste unterliegt der GNU General Public License v3.0 und kann somit g
 
 ## Zukünftige Versionen Release Notes / To-Do's
 
-###### DuckDuckGo-Fakeshops-Blocklist v.1.XX XXXXXXXX
+###### DuckDuckGo-Fakeshops-Blocklist v.1.17 XXXXXXXX
 
-...
+* [ ] Links zu den Version in die README.md hinzufügen.
 
 ## Release Notes
 **Anmerkung:** *KRelease = Kein Release*

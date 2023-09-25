@@ -16,6 +16,10 @@ Diese Blockliste unterliegt der GNU General Public License v3.0 und kann somit g
 ## Release Notes
 **Anmerkung:** *KRelease = Kein Release*
 
+###### DuckDuckGo-Fakeshops-Blocklist v.1.16.1 20230925:
+
+* Aktualisierung der Blockliste (Issue (Problem) eingereicht von SGirl-Zockt, in welchen es darum ging, dass eine Domain Tippfehler hat. Dies wurden verbessert. Als Dank wurde der Name in die List als Helfer eingetragen.).
+
 ###### DuckDuckGo-Fakeshops-Blocklist v.1.16 20230222:
 
 * Aktualisierung der README.md (Eine Versions Historie wurde hinzugefügt).

@@ -1,46 +1,24 @@
-# DuckDuckGo-Fakeshops-Blocklist v. 1.16.2
+# DuckDuckGo-Fakeshops-Blocklist v.1.17
 #
-# Diese Liste führt Fakeshops / Affiliate-Shops, welche vermehrt auf DuckDuckGo aufgetaucht sind.
-# Welche das eigegebene Suchwort nehmen und auf etlichen Seiten kaufbare Artikel anbieten.
-# Meist wird man direkt zu Amazon weitergeleitet, klickt man auf einen dieser Artikel, kann es sein,
-# dass man über einen Dritt-Server geleitet wird und dann erst zu Amazon. Das weiß ich, da ich es in einer
-# Sicheren Umgebung getestet habe. Deswegen sollte man die hier Webseiten nicht aufrufen, da die Gefahr besteht,
-# dass man sich sonst Tracking-Cookies, Cookies, Viren, Malware u.a. aussetzt.
+# This list contains fake shops / affiliate shops that have increasingly appeared on DuckDuckGo.
+# Which take the entered search term and offer purchasable items on several sites.
+# Most of the time you will be redirected directly to Amazon, if you click on one of these articles, it may be,
+# that you are routed through a third-party server and then to Amazon. I know this because I found it in a
+# safe environment. Therefore, you should not visit the websites listed here, as there is a risk that
+# cookies, cookies, viruses, malware, etc.
 #
-# Diese Liste ist nicht komplett, da täglich neue Webseiten dazu kommen. (Diese werden vermutlich für das 
-# Amazon-Partner Programm erstellt.) Deswegen kann ich nicht alle Seiten finden. Außerdem mache ich dies
-# in meiner freien Zeit.
+# This list is WIP because new websites are added every day. (These are presumably used for the Amazon Associates Program.)
+# That's why I can't find all the pages. Besides, I do this in my free time.
 #
-# Es kann sein, dass manche Einträge nicht alphabetisch geordnet sind. Dies bitte ich zu entschuldigen.
+# Some entries may not be in alphabetical order. I apologize for this.
 #
-# UPDATE:
 #
-# Informationen zur dieser Liste:
-#
-# Es scheint, dass es immer weniger Fakeshops / Affiliate-Shops gibt. Beziehungsweise, werden sie nicht mehr so häufig gelistet.
-# Deswegen werde ich den Aktualisierungs-Tag dieser Liste auf Freitag legen.
-#
-# Danke für Hilfe geht an:
+# Thanks for help goes to:
 #
 # zlElo
 # Tinsus
 # SGirl-Zockt
 #
-# Amazon-Partner Programm erstellt.) Deswegen kann ich nicht alle Seiten finden. Außerdem mache ich dies
-# Danke für Hilfe geht an:
-# dass man sich sonst Tracking-Cookies, Cookies, Viren, Malware u.a. aussetzt.
-# dass man über einen Dritt-Server geleitet wird und dann erst zu Amazon. Das weiß ich, da ich es in einer
-# Deswegen werde ich den Aktualisierungs-Tag dieser Liste auf Freitag legen.
-# Diese Liste führt Fakeshops / Affiliate-Shops, welche vermehrt auf DuckDuckGo aufgetaucht sind.
-# Diese Liste ist nicht komplett, da täglich neue Webseiten dazu kommen. (Diese werden vermutlich für das 
-# Es kann sein, dass manche Einträge nicht alphabetisch geordnet sind. Dies bitte ich zu entschuldigen.
-# Es scheint, dass es immer weniger Fakeshops / Affiliate-Shops gibt. Beziehungsweise, werden sie nicht mehr so häufig gelistet.
-# in meiner freien Zeit.
-# Informationen zur dieser Liste:
-# Meist wird man direkt zu Amazon weitergeleitet, klickt man auf einen dieser Artikel, kann es sein,
-# Sicheren Umgebung getestet habe. Deswegen sollte man die hier Webseiten nicht aufrufen, da die Gefahr besteht,
-# UPDATE:
-# Welche das eigegebene Suchwort nehmen und auf etlichen Seiten kaufbare Artikel anbieten.
 11885-auskunft.de
 2beone.de
 3motion-nw.de
@@ -963,12 +941,9 @@ zweiradhaus-krinner.de
 zwischen-den-tuermen.de
 zzib.de
 
-# Ab hier kommen Scam-Webseiten, die nichts mit der ursprünglichen Liste zu tun haben. Hier ist wirklich Vorsicht walten zu lassen.
-# Ich habe zwei Nachrichten erhalten, über SMS. Da stand drinnen, dass mein Paket unterwegs sei und ich auf den Link zu Bestätigung klicken sollte,
-# obwohl ich kein Paket erwartet habe. Deswegen bin ich dies nicht nachgekommen. Doch ein Bekannter ist ausversehen auf den Link gekommen,
-# beim wegwischen der Nachricht. Er musste seine Nummer wechseln, da er permanent Nachrichten erhalten hat. Da seine Nummer auf einer Spam-Liste stand / steht.
-# Deshalb vorsicht, mit diesen Links. Löscht solche Nachrichten. Falls ihr angst hab dennoch auf die Seie ausversehen zu klicken macht das Internet kurzweilig
-# aus, bis ihr die Nachricht gelöscht habt und blockiert die Nummern die euch so etwas Senden.
+# From here come scam websites that have nothing to do with the original list. You really need to be careful here.
+# These domains were sent via SMS. There was give to click on the link to receive a package from DHL.
+# Although you didn't expect a package. Other companies were also named as "senders".
 
 4n.gmrht.com
 byko.wordpress.yoursitebysml.co.uk
